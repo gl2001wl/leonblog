@@ -2,9 +2,9 @@
 title: Leon's Blog
 email: gl2001wl@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  It's a technical blog which made by Leon Guo, 
+  who is a SDE working for Oracle. 
+  He focus on Java, J2EE, distributed storage/computation etc.
 baseurl: "/leonblog" # the subpath of your site, e.g. /blog/
 url: "http://gl2001wl.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
