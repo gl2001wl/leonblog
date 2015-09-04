@@ -4,18 +4,6 @@ title:  "Welcome to Jekyll!"
 date:   2015-09-03 01:19:28
 categories: jekyll update
 ---
-<div class='category'>
-	<ul>
-		{% for cat in site.categories %}
-			<li><a href="{{ site.BASE_PATH }}/category.html#{{ cat[0] }}">{{ cat[0] }}<span>{{ cat[1].size }}</span></a></li>
-		{% endfor %}
-	</ul>
-</div>
-# 这是 H1
-
-## 这是 H2
-
-###### 这是 H6
 \*literal asterisks\*
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
