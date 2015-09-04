@@ -82,11 +82,17 @@ git push origin gh-pages
 Refresh the web page, you can get the newest website.
 
 ### Add syntax highlight support
-
 <http://jekyll-windows.juthilo.com/3-syntax-highlighting/>
 
 ### Use template made by others
-There so many existing jekyll template for you to use, you can find them here:
+There are so many existing jekyll template for you to use, you can find them here:
 <http://jekyllthemes.org/>.
 
 I'm using <https://github.com/bencentra/centrarium>.
+
+### Publish your first article
+You can post your article in folder `./_posts`, the name should be `YYYY-MM-DD-<The article name>.markdown`, so this article named `2015-09-03-set-up-blog-by-jekyllsite-on-github.markdown` for example.
+Of cause you can use html to instead of markdown, but markdown is much sample and easy to write. You can find how to write markdown here:
+<http://wowubuntu.com/markdown/>
+
+
