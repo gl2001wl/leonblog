@@ -58,7 +58,7 @@ git push origin gh-pages
 
 ### Verify
 Visit <http://gl2001wl.github.io/leonblog/>
-Or execute `jekyll serv` and open <http://localhost:4000/leonblog> in your browser
+or execute `jekyll serv` and open <http://localhost:4000/leonblog> in your browser
 
 ### Issues
 If there some display issues of the layout in github
