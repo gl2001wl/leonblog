@@ -44,7 +44,7 @@ git init
 git checkout  --orphan gh-pages
  {% endhighlight %}
  
-+	Create a new repostory in your github, I use `leonblog`
++	Create a new repository in your github, I use `leonblog`
 
 +	Initialize jekyll add commit it to github
 
