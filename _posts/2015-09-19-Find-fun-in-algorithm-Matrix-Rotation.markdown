@@ -10,7 +10,7 @@ tags: [algorithm, java, matrix]
 
 ## Question
 
->Given a NxN matrix, where each element in the matrix is integer, write a method to rotate the image by 90 degrees.
+>Given a NxN matrix, where each element in the matrix is integer, write a method to rotate the matrix by 90 degrees.
 
 ## Answer
 
