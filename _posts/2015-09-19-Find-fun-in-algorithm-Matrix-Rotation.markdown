@@ -14,7 +14,7 @@ tags: [algorithm, java, matrix]
 
 ## Answer
 
-We can separate the question to a set of small questions. The matrix could be considered as N/2 layers, which is a circle from innermost to outermost. So the key is swap the element in each circle.
+We can separate the question to a set of small questions. The matrix could be considered as N/2 layers, which is a circle from innermost to outermost. So the key is swapping the element in each circle.
 
 For example, we have a matrix:
 
